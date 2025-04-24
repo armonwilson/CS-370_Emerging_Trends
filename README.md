@@ -1,6 +1,3 @@
-# CS-370_Emerging_Trends
-Introduction to AI/ML Modeling.
-
 # CS 370 Emerging Trends - Project Two Reflection
 
 ## Project Summary

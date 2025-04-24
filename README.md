@@ -5,8 +5,6 @@ Introduction to AI/ML Modeling.
 
 ## Project Summary
 
-**What code were you given? What code did you create yourself?**
-
 This project involved implementing a deep Q-learning algorithm to train an intelligent agent (a "pirate") to navigate a maze and find a treasure. This project was implemented using several components:
 
 * **Environment (`TreasureMaze.py`):** A Python class defining the 8x8 maze, agent movement rules, state representation, rewards, and game status logic.
